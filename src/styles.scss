@@ -1,0 +1,38 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+    text-transform: capitalize;
+}
+
+.table {
+    margin: 50px 50px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 40px;
+}
+
+.button {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    padding: 0;
+}
+
+.input {
+    width: 250px;
+    border: 1px solid lightgray;
+    padding: 5px 0;
+    text-align: center;
+    border-radius: 20px;
+    opacity: 0.5;
+}
